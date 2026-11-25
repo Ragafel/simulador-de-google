@@ -1,4 +1,4 @@
-
+//COmentario de Ragafel para cambiar algo
 const voiceSearch = document.querySelector(".voice-search");
 let microAceptado = false;
 
